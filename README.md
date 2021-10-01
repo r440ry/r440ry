@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @r440ry
-- 👀 I’m interested in getting acquainted with Python and automating network configuration and monitoring. 
+- 👀 I’m interested in getting bettter acquainted with Python and automating network configuration and monitoring. 
 - 🌱 I’m currently learning Python and Cisco SDA and SD-WAN.
 - 💞️ I’m looking to collaborate with others regarding network automation.
 - 📫 How to reach me - r440ry@gmail.com
