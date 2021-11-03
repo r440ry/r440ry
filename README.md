@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @r440ry
-- 👀 I’m interested in getting bettter acquainted with Python and networkk automation in general. 
-- 🌱 I’m currently learning Python and the API stuff for Cisco SDA and SD-WAN.
+- 👀 I’m interested in network automation. 
+- 🌱 I’m currently getting better aquinted with Python and APIs for Cisco DNA Center and and SD-WAN.
 - 💞️ I’m looking to collaborate with others regarding network automation.
 - 📫 How to reach me - r440ry@gmail.com
 
